@@ -1,0 +1,23 @@
+/* Ensure the bar stays on top and respects mobile safe areas */
+.footer-action-bar {
+  position: fixed;
+  bottom: 20px; /* Default desktop spacing */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 600px;
+  z-index: 1050; /* Higher than most Bootstrap components */
+  background: white;
+  padding: 1rem;
+  border-radius: 50px;
+}
+
+@media (max-width: 768px) {
+  .footer-action-bar {
+    /* Use env() to stay above the 'Home' swipe bar on iOS/Android */
+    bottom: calc(env(safe-area-inset-bottom, 0px) + 15px);
+    width: 95%;
+    padding: 10px 15px;
+    border-radius: 20px; /* Slightly less round for better mobile fit */
+  }
+}

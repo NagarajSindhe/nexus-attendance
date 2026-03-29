@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  /* Multi-color mesh gradient */
+  background: linear-gradient(135deg, #6b21a8 0%, #3b82f6 50%, #db2777 100%);
+  background-size: 400% 400%;
+  animation: meshAnimation 15s ease infinite;
+  min-height: 100vh;
+}
+
+@keyframes meshAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.body_test {
+  --bs-bg-opacity: 1;
+  /* background-color: rgba(var(--bs-light-rgb), var(--bs-bg-opacity)) !important; */
+  margin: 0;
+  background: linear-gradient(135deg, #dbd4e0 0%, #dfe3e9 50%, #db2777 100%);
+  /* background-size: 400% 400%; */
+  animation: meshAnimation 15s ease infinite;
+}
+
+

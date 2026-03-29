@@ -1,0 +1,230 @@
+[
+  {
+    "date": "2026-01-15",
+    "type": "Pongal/ Sankranti/ Uttarayan",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Hyderabad",
+      "Mysore"
+    ]
+  },
+  { "date": "2026-01-23", "type": "Netaji Birthday", "location": ["Kolkata"] },
+  {
+    "date": "2026-01-26",
+    "type": "Republic Day",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Hyderabad",
+      "Kochi",
+      "Kolkata",
+      "Lucknow",
+      "Mumbai",
+      "Mysore",
+      "Noida",
+      "Pune"
+    ]
+  },
+  {
+    "date": "2026-03-03",
+    "type": "Holika Dahan/ Dolyatra",
+    "location": ["Mumbai", "Pune"]
+  },
+  {
+    "date": "2026-03-04",
+    "type": "Holi",
+    "location": [
+      "Ahmedabad",
+      "Bhubaneswar",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Kolkata",
+      "Lucknow",
+      "Noida"
+    ]
+  },
+  {
+    "date": "2026-03-19",
+    "type": "Ugadi/ Gudi Padava",
+    "location": ["Bengaluru", "Hyderabad", "Mumbai", "Mysore", "Pune"]
+  },
+  {
+    "date": "2026-04-03",
+    "type": "Good Friday",
+    "location": [
+      "Bengaluru",
+      "Chennai",
+      "Coimbatore",
+      "Gurgaon",
+      "Kochi",
+      "Lucknow",
+      "Mysore",
+      "Noida"
+    ]
+  },
+  {
+    "date": "2026-04-14",
+    "type": "Tamil New Year",
+    "location": ["Chennai", "Coimbatore"]
+  },
+  { "date": "2026-04-15", "type": "Vishu", "location": ["Kochi"] },
+  {
+    "date": "2026-05-01",
+    "type": "May Day/Maharashtra Day",
+    "location": [
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Hyderabad",
+      "Kochi",
+      "Kolkata",
+      "Mumbai",
+      "Mysore",
+      "Pune"
+    ]
+  },
+  {
+    "date": "2026-05-28",
+    "type": "Id-ul-Zuha (Bakrid)",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Hyderabad",
+      "Kochi",
+      "Kolkata",
+      "Lucknow",
+      "Mumbai",
+      "Mysore",
+      "Noida",
+      "Pune"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "type": "Telangana Formation Day",
+    "location": ["Hyderabad"]
+  },
+  { "date": "2026-07-16", "type": "Rath Yathra", "location": ["Bhubaneswar"] },
+  { "date": "2026-08-25", "type": "Onam Day 1", "location": ["Kochi"] },
+  { "date": "2026-08-26", "type": "Onam Day 2", "location": ["Kochi"] },
+  {
+    "date": "2026-08-28",
+    "type": "Raksha Bandhan",
+    "location": ["Bhubaneswar", "Gurgaon", "Lucknow", "Noida"]
+  },
+  {
+    "date": "2026-09-04",
+    "type": "Janmashtami",
+    "location": [
+      "Ahmedabad",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Kolkata",
+      "Lucknow",
+      "Noida"
+    ]
+  },
+  {
+    "date": "2026-09-14",
+    "type": "Ganesh Chaturthi/Vinayaka Chaturthi",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Hyderabad",
+      "Lucknow",
+      "Mumbai",
+      "Mysore",
+      "Noida",
+      "Pune"
+    ]
+  },
+  {
+    "date": "2026-10-02",
+    "type": "Gandhi Jayanti",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Hyderabad",
+      "Kochi",
+      "Kolkata",
+      "Lucknow",
+      "Mumbai",
+      "Mysore",
+      "Noida",
+      "Pune"
+    ]
+  },
+  { "date": "2026-10-19", "type": "Mahanavami", "location": ["Kolkata"] },
+  {
+    "date": "2026-10-20",
+    "type": "Dussehra",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Hyderabad",
+      "Kochi",
+      "Kolkata",
+      "Lucknow",
+      "Mumbai",
+      "Mysore",
+      "Noida",
+      "Pune"
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "type": "Gujarati New Year/ Balipratipada (4th day of Diwali)",
+    "location": ["Ahmedabad", "Gandhi Nagar", "Mumbai", "Pune"]
+  },
+  {
+    "date": "2026-12-25",
+    "type": "Christmas",
+    "location": [
+      "Ahmedabad",
+      "Bengaluru",
+      "Bhubaneswar",
+      "Chennai",
+      "Coimbatore",
+      "Gandhi Nagar",
+      "Gurgaon",
+      "Hyderabad",
+      "Kochi",
+      "Kolkata",
+      "Lucknow",
+      "Mumbai",
+      "Mysore",
+      "Noida",
+      "Pune"
+    ]
+  }
+]
